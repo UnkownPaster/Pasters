@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.externalDependencies": [],
+		"java.completion.enabled": true,
+		"java.debug.settings.enableRunDebugCodeLens": true
+	},
+	"extensions": {
+		"recommendations": [
+			"redhat.java"
+		]
+	}
+}
